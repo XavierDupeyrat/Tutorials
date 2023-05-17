@@ -97,12 +97,12 @@ From the SAP Build lobby, you should create an Action that will be integrated in
 
 1. Open SAP Build Lobby with your username and password
    ![build](spa1.png)
-2. then click **Create**.
+2. Click **Create**.
 3. In the popup, choose **Build an Automated Process** and then select `Actions`.
 4. In the popup
    - Enter the Project Name.
    - Enter the Short Description as API to **create a Task Action in SAP Cloud ALM**
-   - Click to Browse the open specification file downloaded in step below:
+   - Click to **Browse** the open specification file downloaded in step below:
     ![build](spa2.png)
    - Click **Create**.
 
